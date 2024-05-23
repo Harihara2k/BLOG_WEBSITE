@@ -2,4 +2,4 @@
 
 # EDITOR - 000WEBHOST
 
-[alt text](https://github.com/[Harihara2k]/[BLOG_WEBSITE]/blob/[screenshot]/homepage.png?raw=true)
+[homepage](https://github.com/Harihara2k/BLOG_WEBSITE/blog/screenshot/homepage.png?raw=true)
